@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Hi!+I'm+Kevin+%F0%9F%91%8B;Software+Engineering+Student;Full-Stack+Web+Developer;AI+%26+Database+Enthusiast" alt="Typing Animation" />
 </a>
@@ -10,33 +10,23 @@
 
 </div>
 
-<hr/>
-
-<div align="center">
+---
 
 ### 👨‍💻 About Me
-
-<div align="center">
 
 * 🎓 **Education:** 4th-semester Software Engineering student at Universidad Técnica de Ambato (UTA).
 * ⚙️ **Currently focused on:** Full-stack web development integrated with robust database management.
 * 🌐 **Strong interest in:** Building modern web applications using **Microservices**, advanced **Databases**, and **Artificial Intelligence** integration.
 * 📝 **Research:** Actively researching and professionally documenting agile methodologies (Scrum, Kanban, Scrumban).
 
-</div>
-
-</div>
-
-<hr/>
-
-<div align="center">
+---
 
 ### 🛠️ My Tech Stack
 
 <details>
   <summary><b>👉 Languages & Databases</b> <i>(Click to expand)</i></summary>
   <br>
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -50,24 +40,19 @@
 <details>
   <summary><b>👉 Tools & Networking</b> <i>(Click to expand)</i></summary>
   <br>
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
     <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
     <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   </p>
 </details>
 
-</div>
+---
 
-<hr/>
-
-<div align="center">
-
-### 📊 GitHub Stats (Dark Theme)
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sax300-cpu&show_icons=true&theme=dark&hide_border=true&bg_color=121212" alt="GitHub Stats" width="48%" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sax300-cpu&theme=gh_dark&hide_border=true&background=121212" alt="GitHub Streak" width="48%" />
 </div>
 
@@ -77,39 +62,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sax300-cpu&layout=compact&theme=dark&hide_border=true&bg_color=121212" alt="Top Languages" />
 </div>
 
-</div>
-
-<hr/>
-
-<div align="center">
+---
 
 ### 🚀 Featured Projects
-
-<div align="center">
 
 * 🧱 **[ProyectoMyCS](https://github.com/zamukay/ProyectoMyCS):** A collaborative project implementing structural patterns like DTOs for a clean, streamlined data model. Distributed under the MIT License.
 * ⚡ **[SIGAU](https://github.com/Sax300-cpu/SIGAU):** A JavaScript-based project focused on interactive functionalities.
 * 🌐 **Network Simulations:** Redundant topology designs using Spanning Tree Protocol (STP) and Cisco configurations.
 
-</div>
-
-</div>
-
-<hr/>
-
-<div align="center">
+---
 
 ### 🎮 When I'm not coding...
 
-<p align="center">
-  You can probably find me riding through *Red Dead Redemption 2*, or patiently waiting for *Hollow Knight: Silksong*.
-</p>
+> You can probably find me riding through *Red Dead Redemption 2*, or patiently waiting for *Hollow Knight: Silksong*.
 
-</div>
-
-<hr/>
-
-<div align="center">
+---
 
 ### 📫 How to reach me
 
@@ -117,5 +84,3 @@
   <a href="mailto:keander300@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="mailto:kvelasco3634@uta.edu.ec"><img src="https://img.shields.io/badge/University_Email-003366?style=for-the-badge&logo=microsoft-academic&logoColor=white" alt="Academic Email"></a>
 </p>
-
-</div>
