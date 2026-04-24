@@ -1,9 +1,5 @@
 <div align="center">
-
-<img src="https://i.imgur.com/8QeD7S7.png" alt="Kevin's Software Engineering Header" width="1000px" />
-
-<br><br>
-
+  
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Hi!+I'm+Kevin+%F0%9F%91%8B;Software+Engineering+Student;Full-Stack+Web+Developer;AI+%26+Database+Enthusiast" alt="Typing Animation" />
 </a>
